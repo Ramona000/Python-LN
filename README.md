@@ -8,4 +8,4 @@ Am Projekt arbeiten:
 - Hofer Samira (hofersa5@students.zhaw.ch)
 
 ## Projektidee
-Wir untersuchen, wie sich die Müttersterblichkeitrate pro 100'000 Lebendgeburten weltweit / in verschiedenen Ländern von 2000 bis 2023 verändert hat. Und welche Ursachen tragen am stärksten zur Müttersterblichkeit bei.
+Wir untersuchen, wie sich die Müttersterblichkeitrate pro 100'000 Lebendgeburten weltweit und in verschiedenen Ländern von 2000 bis 2023 verändert hat. Und welche Ursachen tragen am stärksten zur Müttersterblichkeit bei.
